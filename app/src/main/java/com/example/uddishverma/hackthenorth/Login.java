@@ -46,7 +46,7 @@ public class Login extends AppCompatActivity {
         signin = (Button) findViewById(R.id.signin);
 
         if (currentUser != null) {
-            startActivity(new Intent(getApplicationContext(), MainActivity.class));
+            startActivity(new Intent(getApplicationContext(), HomeActivity.class));
             finish();
         }
 
@@ -110,7 +110,7 @@ public class Login extends AppCompatActivity {
                             Log.d(TAG, "onComplete: " + acct.getDisplayName());
                             Log.d(TAG, "onComplete: " + acct.getId());
                             //Open map activity
-                            startActivity(new Intent(getApplicationContext(), MainActivity.class));
+                            startActivity(new Intent(getApplicationContext(), HomeActivity.class));
                             finish();
 
                         } else {

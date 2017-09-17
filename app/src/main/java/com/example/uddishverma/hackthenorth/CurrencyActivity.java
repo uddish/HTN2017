@@ -165,7 +165,7 @@ public class CurrencyActivity extends AppCompatActivity {
                 String currencyTo = String.valueOf(countryTo.getText());
                 String currencyValue = String.valueOf(currency_from.getText());
 
-                url = url + currencyValue + "/" + currencyFrom + "/" + currencyTo;
+                url = url + currencyValue + "/" + currencyTo + "/" + currencyFrom;
 
                 fetchData(requestQueue);
 
@@ -192,7 +192,7 @@ public class CurrencyActivity extends AppCompatActivity {
 
             }
         });
-        
+
 
         relativeOne.setOnClickListener(new View.OnClickListener() {
             @Override
