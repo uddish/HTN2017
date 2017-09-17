@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "124295078340",
+    "firebase_url": "https://htn2017-42cf2.firebaseio.com",
+    "project_id": "htn2017-42cf2",
+    "storage_bucket": "htn2017-42cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124295078340:android:d6035279d5419559",
+        "android_client_info": {
+          "package_name": "com.example.uddishverma.htn2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124295078340-ql6o2o61on03s1dfutirn9ae0grb02sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uddishverma.htn2017",
+            "certificate_hash": "946c774091a9a2487cb91c86649231aad4f7b3f0"
+          }
+        },
+        {
+          "client_id": "124295078340-us67adic62pr8hgdmme3uhdt88bsm1lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkk93mhsSWRv2u9_4Xz0e3MMTO2XZwUFM"
+        },
+        {
+          "current_key": "AIzaSyAg4rGSO4kfG2mD7zNBh6rDZsXJlhyHl50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124295078340-us67adic62pr8hgdmme3uhdt88bsm1lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124295078340:android:6f898b2463a121c3",
+        "android_client_info": {
+          "package_name": "com.example.uddishverma.hackthenorth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124295078340-sa6691ei5noo14971ji1vb4jspv6ui9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uddishverma.hackthenorth",
+            "certificate_hash": "946c774091a9a2487cb91c86649231aad4f7b3f0"
+          }
+        },
+        {
+          "client_id": "124295078340-us67adic62pr8hgdmme3uhdt88bsm1lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkk93mhsSWRv2u9_4Xz0e3MMTO2XZwUFM"
+        },
+        {
+          "current_key": "AIzaSyAg4rGSO4kfG2mD7zNBh6rDZsXJlhyHl50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124295078340-us67adic62pr8hgdmme3uhdt88bsm1lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
